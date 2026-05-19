@@ -90,7 +90,8 @@ This assessment follows a structured penetration testing methodology:
 ## 📄 Final Report
 
 The complete consolidated assessment report is available as:
-📎 [`final-report.pdf`](./final-report.pdf)
+📎 [Final_report _SIFAT.pdf](https://github.com/user-attachments/files/27995052/Final_report._SIFAT.pdf)
+
 
 ---
 
